@@ -52,7 +52,17 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
+            http://localhost:8000/catalog/interactive-puzzle-toy-for-dogs-and-cats/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/catalog/starter-aquarium-kit-10-gallon/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/pet-tips/
         </loc>
     </url>
     <url>
