@@ -2,7 +2,27 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/keeping-your-pets-mentally-stimulated-and-physically-active-is-essential-to-their-health-and-happiness-the-right-toys-can-make-all-the-difference/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/a-thriving-aquarium-starts-with-the-right-setup-with-a-little-planning-and-care-you-can-create-a-healthy-and-beautiful-home-for-your-fish/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/grooming-your-dog-at-home-not-only-keeps-them-clean-but-also-strengthens-your-bond-with-a-few-simple-tools-and-techniques-you-can-make-grooming-an-easy-and-positive-experience/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/feeding-your-cat-the-right-food-for-their-life-stage-is-essential-to-keeping-them-healthy-and-happy-heres-a-quick-guide-to-what-your-cat-needs-from-kittenhood-through-senior-years/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/essential-puppy-training-tips-for-new-owners/
         </loc>
     </url>
     <url>
